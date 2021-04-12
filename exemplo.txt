@@ -1,0 +1,1 @@
+O primeiro texto de exemplo do git
