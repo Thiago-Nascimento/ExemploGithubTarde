@@ -2,3 +2,5 @@ O primeiro texto de exemplo do git
 Segunda linha criada nesse arquivo
 
 Terceira linha criada rapidamente
+
+Quarta linha de exemplo
